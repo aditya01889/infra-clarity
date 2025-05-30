@@ -1,8 +1,11 @@
 # Infra Clarity
 
+[![PyPI Version](https://img.shields.io/pypi/v/infra-clarity)](https://pypi.org/project/infra-clarity/)
+[![Python Version](https://img.shields.io/pypi/pyversions/infra-clarity)](https://pypi.org/project/infra-clarity/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Python Version](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/)
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
+[![Tests](https://github.com/aditya01889/infra-clarity/actions/workflows/ci.yml/badge.svg)](https://github.com/aditya01889/infra-clarity/actions/workflows/ci.yml)
+[![Documentation Status](https://github.com/aditya01889/infra-clarity/actions/workflows/gh-pages.yml/badge.svg)](https://aditya01889.github.io/infra-clarity/)
 
 > **Note**: This project is currently in active development. Some features may not be fully implemented yet.
 

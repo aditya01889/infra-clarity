@@ -24,8 +24,8 @@ theme:
         icon: material/weather-night
         name: Switch to light mode
 
-repo_name: yourusername/infra-clarity
-repo_url: https://github.com/yourusername/infra-clarity
+repo_name: aditya01889/infra-clarity
+repo_url: https://github.com/aditya01889/infra-clarity
 
 nav:
   - Home: index.md
