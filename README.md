@@ -179,9 +179,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📬 Contact
 
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter) - your.email@example.com
+Aditya Srivastava - aditya01889@example.com
 
-Project Link: [https://github.com/yourusername/infra-clarity](https://github.com/yourusername/infra-clarity)
+Project Link: [https://github.com/yourusername/infra-clarity](https://github.com/aditya01889/infra-clarity)
 
 ## 🙏 Acknowledgments
 
