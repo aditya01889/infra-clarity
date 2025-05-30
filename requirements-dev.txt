@@ -1,0 +1,23 @@
+# Testing
+pytest>=7.0.0
+pytest-cov>=3.0.0
+pytest-mock>=3.10.0
+
+# Code style
+black>=22.0.0
+isort>=5.10.0
+flake8>=4.0.0
+mypy>=0.900
+
+# Documentation
+mkdocs>=1.3.0
+mkdocs-material>=8.0.0
+
+# Development tools
+pre-commit>=2.17.0
+
+# Dependencies for testing
+boto3>=1.24.0
+python-hcl2>=3.0.0
+rich>=12.0.0
+typer>=0.7.0
